@@ -63,9 +63,3 @@ git config --global user.name "Ваше Имя"
 
 # Установить email (должен совпадать с GitHub!)
 git config --global user.email "your@email.com"
-
-
-
-
-
-
